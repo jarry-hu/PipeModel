@@ -1,0 +1,28 @@
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings - Copy.staging.Development.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings - Copy.staging.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings.Development.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings.production.Development.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings.production.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings.staging.Development.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\appsettings.staging.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\PipeModel.exe
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\PipeModel.deps.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\PipeModel.runtimeconfig.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\PipeModel.runtimeconfig.dev.json
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\PipeModel.dll
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\ref\PipeModel.dll
+C:\Users\JS\source\repos\PipeModel\PipeModel\bin\Release\net5.0\PipeModel.pdb
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.AssemblyInfoInputs.cache
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.AssemblyInfo.cs
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.csproj.CoreCompileInputs.cache
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\staticwebassets\PipeModel.StaticWebAssets.Manifest.cache
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\staticwebassets\PipeModel.StaticWebAssets.xml
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\scopedcss\bundle\PipeModel.styles.css
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.RazorTargetAssemblyInfo.cache
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.dll
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\ref\PipeModel.dll
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.pdb
+C:\Users\JS\source\repos\PipeModel\PipeModel\obj\Release\net5.0\PipeModel.genruntimeconfig.cache
